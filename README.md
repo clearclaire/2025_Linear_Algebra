@@ -15,7 +15,6 @@ The course is foundational for understanding the mathematics behind machine lear
 - Basis and dimension  
 - Orthogonal projection and Gram-Schmidt process  
 - Eigenvalues and eigenvectors  
-- Applications in machine learning
 
 ## 📁 Repository Contents
 
