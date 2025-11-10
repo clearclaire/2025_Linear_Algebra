@@ -24,6 +24,7 @@ The course is foundational for understanding the mathematics behind machine lear
 | `Gram_Schmidt_process.ipynb` | Orthogonalization and projections |
 | `Reflecting_Bear.ipynb` | Linear transformations (with visual examples) |
 | `PageRank.ipynb` | Practical application of eigenvectors |
+| `Linear_Algebra_notes.pdf` | Personal handwriting notes |
 
 ## 📝 Notes
 
