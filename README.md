@@ -7,6 +7,10 @@ The course is foundational for understanding the mathematics behind machine lear
 ## 🔗 Course Link
 [Mathematics for Machine Learning: Linear Algebra – Coursera](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
+## 🎓 Certifications
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Linear%20Algebra-blue?logo=coursera)](Linear_Algebra_Certificate.pdf)
+
+
 ## 🧠 Topics Covered
 
 - Vectors and vector spaces  
