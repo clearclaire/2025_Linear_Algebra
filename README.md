@@ -10,6 +10,7 @@ The course is foundational for understanding the mathematics behind machine lear
 ## 🎓 Certifications
 [![Coursera Certificate](https://img.shields.io/badge/Coursera-Linear%20Algebra-blue?logo=coursera)](Linear_Algebra_Certificate.pdf)
 - Issued: Nov 2025
+- Certificate Link: https://coursera.org/verify/0G99BB94Y80Z
 
 ## 🧠 Topics Covered
 
